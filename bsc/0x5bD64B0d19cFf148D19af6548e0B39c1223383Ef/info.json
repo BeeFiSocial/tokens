@@ -1,0 +1,11 @@
+{
+ "name": "BEEFIDAO",
+ "website": "https://beefi.net",
+ "description": "BEEFIDAO: Pioneering a New Era of SocialFi Economy.",
+ "explorer":"https://bscscan.com/token/0x5bD64B0d19cFf148D19af6548e0B39c1223383Ef",
+ "type": "BEP20",
+ "symbol": "BEED",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x5bD64B0d19cFf148D19af6548e0B39c1223383Ef"
+}
